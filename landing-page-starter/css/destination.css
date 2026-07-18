@@ -6,8 +6,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 45px;
-}
+    gap: 45px;    
+} 
 .destinationSection button{
     background-color: transparent;
     border: none;
