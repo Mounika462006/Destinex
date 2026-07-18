@@ -9,7 +9,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+      
     position: fixed;
     top: 1%;
     /*  Make it in center*/
