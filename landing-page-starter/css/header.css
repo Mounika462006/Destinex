@@ -27,7 +27,7 @@ header nav{
     display: flex;
     gap: 70px;
     align-items: center;
-}
+} 
 header nav a{
     color: white;
     text-decoration: none;
@@ -42,7 +42,7 @@ header nav a:hover{
 }
 header button{
     padding: 5px 15px;
-    border-radius: 10px;
+     border-radius: 10px;
     font-weight: 600;
     font-family: serif;
     font-size: 1.1rem;
