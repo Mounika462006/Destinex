@@ -7,9 +7,9 @@
     background-size: cover;
     background-position: center;
     padding-top: 150px;
-}
+} 
 .hero-section .landingContainer{
-    width:80%;
+    width:80%;  
     margin: auto;
     display: flex;
     flex-direction: column;
