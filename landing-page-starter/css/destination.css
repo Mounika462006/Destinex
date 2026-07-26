@@ -12,8 +12,8 @@
     background-color: transparent;
     border: none;
     font-size: 32px;
-    cursor: pointer;    
-}
+    cursor: pointer;       
+} 
 .destinationSection .destination{
     width: 90%;
     min-height: 70vh;
