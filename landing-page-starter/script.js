@@ -1,7 +1,7 @@
 let destination = document.querySelector('.destination')
 let nextBtn = document.querySelector('.next')
 let prevBtn = document.querySelector('.prev')
-
+                                          
 let BgImgs = [
     "https://tripandtales.com/wp-content/uploads/2025/08/Miramar-Beach-1024x576.jpg",
     "https://aazhimalasivatemple.in/wp-content/uploads/2024/11/cropped-tea-banner-1536x922-1.jpg",
