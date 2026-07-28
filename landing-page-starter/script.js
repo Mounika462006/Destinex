@@ -14,8 +14,8 @@ let currentBgImgIndex=0;
 function addBg() {
     destination.style.backgroundImage = `url(${BgImgs[currentBgImgIndex]})`;
     
-}
-
+} 
+  b
 nextBtn.addEventListener('click' , function() {
     currentBgImgIndex++;
     if (currentBgImgIndex == BgImgs.length){
