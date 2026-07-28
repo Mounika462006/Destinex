@@ -22,7 +22,7 @@
 }
 .hero-section .landingContainer p{
     font-size: 18px;
-}
+} 
 .hero-section .landingContainer #exploreBtn{
     text-decoration: none;
     padding: 5px 20px;
@@ -33,7 +33,7 @@
     font-size: 20px;
     font-weight: 800;
     letter-spacing: 4px;
-}
+} 
 .hero-section .landingContainer #exploreBtn:hover{
     background-color: black;
     color:white;
