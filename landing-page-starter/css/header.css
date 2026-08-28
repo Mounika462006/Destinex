@@ -5,7 +5,6 @@ header{
     height: 8vh;
     padding: 0 35px;
     border-radius: 50px; /*shape changed*/
-
     display: flex;
     justify-content: space-between;
     align-items: center;
