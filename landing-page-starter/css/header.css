@@ -21,7 +21,7 @@ header #logo{
     font-weight: 900;
     font-style: italic;
 }
-header nav{
+header nav{ 
     height: 100%;
     margin-left: 100px;
     display: flex;
