@@ -1,5 +1,5 @@
 let destination = document.querySelector('.destination')
-let nextBtn = document.querySelector('.next')
+let nextBtn = document.querySelector('.next')  
 let prevBtn = document.querySelector('.prev')
                                           
 let BgImgs = [
